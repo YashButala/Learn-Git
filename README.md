@@ -23,6 +23,8 @@ Your entry should maintain alphabetic order and it should be in the format:
 - Only one file should be there in the diff of your Pull Request.
 
 ### Entries
+Somay Chopra [somaychopra](https://github.com/somaychopra)
+
 
 ## Task 2
 
